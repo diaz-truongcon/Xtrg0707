@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Xtrg0707
+- 👋 Hi, I’m @Xtrg0707.
 - 👀 I’m interested in self-study in Web Development.
-- 🌱 I’m currently learning university of Greenwich.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Greenwich Vietnam.
+- 💞️ I’m 19 years old and living Da Nang city.
 - 📫 How to reach me: truogn123@gmail.com
 
 <!---
